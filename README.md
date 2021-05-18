@@ -4,7 +4,6 @@
 - 🛹 Skateboarding
 - 📷 Photography, Cinematography
 - 🐱‍💻 I like some competitive programming as well - [HackerRank](https://www.hackerrank.com/andriuska96), [CodeWars](https://www.codewars.com/users/Andriuxa)
-- 🇸🇬 Looking to relocate to Singapore ✈️
 - 🌱 Contribute to Open Source, whenever I get a chance
 
 ### Connect with me:
